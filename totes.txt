@@ -18,6 +18,7 @@ duh
 emosh
 	motes
 exc
+geni    [genius]
 jeal
 	[jealous]
 legit
